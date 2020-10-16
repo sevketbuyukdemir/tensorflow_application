@@ -1,0 +1,14 @@
+<resources>
+    <!-- App strings-->
+    <string name="app_name">CapstoneApp</string>
+
+    <!-- activity_camera strings-->
+
+    <!-- bottom_settings_bar strings-->
+    <string name="frame_frame_info_button_text">SET WHITEBOARD</string>
+
+    <!-- dialog strings-->
+
+    <!-- toast strings-->
+
+</resources>
